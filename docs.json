@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "HOA Wiki",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1447e6",
+    "light": "#1447e6",
+    "dark": "#193cb8"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -71,7 +71,7 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/light.svg"
   },
   "contextual": {
     "options": [
@@ -83,5 +83,8 @@
     "socials": {
       "github": "https://github.com/hitsz-openauto"
     }
+  },
+  "appearance": {
+    "default": "system"
   }
 }
