@@ -818,13 +818,13 @@
     {
       "id": "a_JkGYiGaAd9OQoGwFWrz",
       "type": "rectangle",
-      "x": 1320.2791605906677,
-      "y": 222.45927968915913,
+      "x": 1320.6097364803136,
+      "y": 222.81189397144811,
       "width": 417.88096010198257,
       "height": 353.410037953096,
       "angle": 0,
       "strokeColor": "#1e1e1e",
-      "backgroundColor": "#b2f2bb",
+      "backgroundColor": "#ffec99",
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
@@ -837,8 +837,8 @@
         "type": 3
       },
       "seed": 764339960,
-      "version": 1441,
-      "versionNonce": 639198504,
+      "version": 1443,
+      "versionNonce": 470319840,
       "isDeleted": false,
       "boundElements": [
         {
@@ -846,15 +846,15 @@
           "id": "mJfZUN8H0FZdw6DSbVgxk"
         }
       ],
-      "updated": 1773132230029,
+      "updated": 1773139007920,
       "link": null,
       "locked": false
     },
     {
       "id": "mJfZUN8H0FZdw6DSbVgxk",
       "type": "text",
-      "x": 1342.0701045088465,
-      "y": 366.1600248025568,
+      "x": 1342.4006803984923,
+      "y": 366.5126390848458,
       "width": 374.299072265625,
       "height": 66.00854772630063,
       "angle": 0,
@@ -870,11 +870,11 @@
       "index": "al",
       "roundness": null,
       "seed": 822722952,
-      "version": 1718,
-      "versionNonce": 2063761448,
+      "version": 1719,
+      "versionNonce": 1315169056,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1773132230029,
+      "updated": 1773139006473,
       "link": null,
       "locked": false,
       "text": "博客：hoa-blog",
@@ -890,13 +890,13 @@
     {
       "id": "TZXTmj4D2XlyPZ_iqpnY9",
       "type": "rectangle",
-      "x": 1325.2125023979354,
+      "x": 1325.5540974839028,
       "y": 676.6940683769749,
       "width": 417.91948529199266,
       "height": 373.7920170838469,
       "angle": 0,
       "strokeColor": "#1e1e1e",
-      "backgroundColor": "#b2f2bb",
+      "backgroundColor": "#ffc9c9",
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
@@ -909,8 +909,8 @@
         "type": 3
       },
       "seed": 1151974536,
-      "version": 1850,
-      "versionNonce": 434277928,
+      "version": 1852,
+      "versionNonce": 197137120,
       "isDeleted": false,
       "boundElements": [
         {
@@ -918,14 +918,14 @@
           "id": "GwGjq9Y4aYCzp8WxfFES3"
         }
       ],
-      "updated": 1773132221790,
+      "updated": 1773139010086,
       "link": null,
       "locked": false
     },
     {
       "id": "GwGjq9Y4aYCzp8WxfFES3",
       "type": "text",
-      "x": 1337.4130897704943,
+      "x": 1337.7546848564616,
       "y": 830.585803055748,
       "width": 393.518310546875,
       "height": 66.00854772630063,
@@ -942,11 +942,11 @@
       "index": "an",
       "roundness": null,
       "seed": 1213262728,
-      "version": 2151,
-      "versionNonce": 979575848,
+      "version": 2152,
+      "versionNonce": 172577568,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1773132221790,
+      "updated": 1773139008594,
       "link": null,
       "locked": false,
       "text": "新闻：hoa-news",
